@@ -1,0 +1,5 @@
+URL Dataset: https://www.kaggle.com/teejmahal20/airline-passenger-satisfaction/code?datasetId=522275&sortBy=voteCount
+URL Deployment: https://front-end-streamlit-fadhil.herokuapp.com/
+
+*Notes: Model gagal di deploy, jadi Streamlit hanya berisi visualiasi EDA Dataset.
+        Medel deployment process still in progress.
